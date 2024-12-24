@@ -33,3 +33,7 @@ The project will run on localhost:3000/
 
 
 <h1>Visuals</h1>
+
+<img src="results/2.png">
+<img src="results/3.png">
+<img src="results/4.png">
