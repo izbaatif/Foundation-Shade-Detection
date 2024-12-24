@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Foundation Shade Detection</title>
+    <link rel="icon" href="data:,">
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-image: url('{{ url_for("static", filename="background.jpg") }}');
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+        }
+
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+            margin-bottom: 1.5rem;
+        }
+
+        h2 {
+            color: #34495e;
+            margin-bottom: 1rem;
+        }
+
+        .title-container {
+            background-color: #ffffca;
+            padding: 1rem 2rem;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            max-width: 600px;
+            margin: 2rem auto;
+        }
+
+        .instructions {
+            background-color: #ffffca;
+            padding: 1.5rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            margin-bottom: 2rem;
+        }
+
+        .instructions ul {
+            list-style-position: inside;
+            margin-left: 1rem;
+        }
+
+        .image-section {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 2rem;
+            margin-bottom: 2rem;
+        }
+
+        .reference-container,
+        .upload-container {
+            background-color: #ffffca;
+            padding: 1.5rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        .reference-image {
+            width: 100%;
+            height: 300px;
+            object-fit: cover;
+            border-radius: 4px;
+        }
+
+        .upload-box {
+            width: 100%;
+            height: 300px;
+            border: 2px dashed #bdc3c7;
+            border-radius: 4px;
+            position: relative;
+            cursor: pointer;
+            transition: border-color 0.3s ease;
+        }
+
+        .upload-box:hover {
+            border-color: #3498db;
+        }
+
+        .upload-placeholder {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            text-align: center;
+            color: #7f8c8d;
+        }
+
+        #fileInput {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            opacity: 0;
+            cursor: pointer;
+        }
+
+        #previewImage {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            border-radius: 4px;
+        }
+
+        .hidden {
+            display: none;
+        }
+
+        .run-button {
+            display: block;
+            width: 200px;
+            margin: 0 auto;
+            padding: 1rem 2rem;
+            font-size: 1.1rem;
+            font-weight: bold;
+            color: #fff;
+            background-color: #d8b422;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        .run-button:hover {
+            background-color: #e7bd16;
+        }
+
+        .run-button:disabled {
+            background-color: #bdc3c7;
+            cursor: not-allowed;
+        }
+
+        .status-message {
+            text-align: center;
+            margin-top: 1rem;
+            font-size: 1.2rem;
+            font-weight: bold;
+        }
+
+        .success {
+            color: rgb(0, 0, 0);
+        }
+
+        .error {
+            color: red;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <section class="title-container">
+            <h1>Foundation Shade Detection</h1>
+        </section>
+
+        <section class="instructions">
+            <h2>Instructions</h2>
+            <ul>
+                <li>Take a clear, well-lit photo of your face</li>
+                <li>Hold a white sheet of paper next to your face like in reference image</li>
+                <li>Avoid shadows on your face</li>
+            </ul>
+        </section>
+
+        <section class="image-section">
+            <div class="reference-container">
+                <h3>Reference Image</h3>
+                <img src="{{ url_for('static', filename='reference.webp') }}" alt="Reference photo showing ideal position and lighting"
+                    class="reference-image">
+            </div>
+
+            <div class="upload-container">
+                <h3>Your Photo</h3>
+                <form id="uploadForm" action="/upload" method="POST" enctype="multipart/form-data">
+                    <div class="upload-box" id="uploadBox">
+                        <img id="previewImage" class="hidden">
+                        <div class="upload-placeholder" id="uploadPlaceholder">
+                            <span>Click to upload or drag and drop</span>
+                            <input type="file" id="fileInput" name="file" accept="image/*">
+                        </div>
+                    </div>
+                    <button id="runButton" class="run-button" type="submit" disabled>Run Detection</button>
+                </form>
+                <div id="status" class="status-message"></div>
+            </div>
+        </section>
+    </div>
+
+    <script>
+        const fileInput = document.getElementById('fileInput');
+        const runButton = document.getElementById('runButton');
+        const statusDiv = document.getElementById('status');
+        const previewImage = document.getElementById('previewImage');
+        const uploadPlaceholder = document.getElementById('uploadPlaceholder');
+
+        // Enable button when a file is selected
+        fileInput.addEventListener('change', () => {
+            if (fileInput.files.length > 0) {
+                runButton.disabled = false;
+                const file = fileInput.files[0];
+                const reader = new FileReader();
+
+                // Preview image
+                reader.onload = function (e) {
+                    previewImage.src = e.target.result;
+                    previewImage.classList.remove('hidden');
+                    uploadPlaceholder.style.display = 'none';
+                };
+
+                reader.readAsDataURL(file);
+            } else {
+                runButton.disabled = true;
+            }
+        });
+
+        // Handle form submission
+        runButton.addEventListener('click', (event) => {
+            event.preventDefault(); // Prevent default form submission to allow for API call
+
+            if (!fileInput.files.length) {
+                statusDiv.innerText = 'Please select a file before uploading.';
+                statusDiv.classList.add('error');
+                return;
+            }
+
+            statusDiv.innerText = 'Processing...';
+            statusDiv.classList.remove('success', 'error');
+
+            const formData = new FormData();
+            formData.append('file', fileInput.files[0]);
+
+            // Make API call to Flask
+            fetch('http://localhost:3000/process', {
+                method: 'POST',
+                body: formData,
+            })
+                .then(response => response.json())
+                .then(data => {
+                    if (data.error) {
+                        statusDiv.innerText = `Error: ${data.error}`;
+                        statusDiv.classList.add('error');
+                    } else {
+                        statusDiv.innerText = `Skin Tone: ${data.skin_tone}, Match: ${data.closest_match.brand} - ${data.closest_match.product} (${data.closest_match.shade})`;
+                        statusDiv.classList.add('success');
+                    }
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                    statusDiv.innerText = 'An error occurred during processing.';
+                    statusDiv.classList.add('error');
+                });
+        });
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,579 @@
+ faces/194.jpg loaded successfully
+ faces/194.jpg has skin tone: #cf9f92
+ dataframe loaded succesfully
+ faces/1.jpg loaded successfully
+ faces/1.jpg has skin tone: #b49680
+ faces/2.jpg loaded successfully
+ faces/2.jpg has skin tone: #deae9f
+ faces/3.jpg loaded successfully
+ faces/3.jpg has skin tone: #fec59f
+ faces/4.jpg loaded successfully
+ faces/4.jpg has skin tone: #b8806a
+ faces/5.jpg loaded successfully
+ faces/5.jpg has skin tone: #c09d88
+ faces/6.webp loaded successfully
+ faces/6.webp has skin tone: #ffddc2
+ faces/7.webp loaded successfully
+ faces/7.webp has skin tone: #dca78f
+ faces/8.webp loaded successfully
+ faces/8.webp has skin tone: #ffbd9c
+ faces/9.webp loaded successfully
+ faces/9.webp has skin tone: #ffd9b9
+ faces/10.webp loaded successfully
+ faces/10.webp has skin tone: #eab39f
+ faces/11.webp loaded successfully
+ faces/11.webp has skin tone: #f0a88b
+ faces/12.jpg loaded successfully
+ faces/12.jpg has skin tone: #be9d88
+ faces/13.webp loaded successfully
+ faces/13.webp has skin tone: #ffe5d0
+ faces/14.jpeg loaded successfully
+ faces/14.jpeg has skin tone: #ffd2be
+ faces/15.jpeg loaded successfully
+ faces/15.jpeg has skin tone: #cd9676
+ faces/16.jpeg loaded successfully
+ faces/16.jpeg has skin tone: #ab8258
+ faces/17.jpeg loaded successfully
+ faces/17.jpeg has skin tone: #d49a7b
+ faces/18.jpeg loaded successfully
+ faces/18.jpeg has skin tone: #f9b88c
+ faces/19.jpeg loaded successfully
+ faces/19.jpeg has skin tone: #c7a687
+ faces/20.webp loaded successfully
+ faces/20.webp has skin tone: #ffd6b0
+ faces/21.jpeg loaded successfully
+ faces/21.jpeg has skin tone: #eec896
+ faces/22.jpg loaded successfully
+ faces/22.jpg has skin tone: #917b6e
+ faces/23.jpeg loaded successfully
+ faces/23.jpeg has skin tone: #f8b8a4
+ faces/24.webp loaded successfully
+ faces/24.webp has skin tone: #f5c096
+ faces/25.webp loaded successfully
+ faces/25.webp has skin tone: #f6d6bb
+ faces/26.jpg loaded successfully
+ faces/26.jpg has skin tone: #a38a79
+ faces/27.webp loaded successfully
+ faces/27.webp has skin tone: #f3c1b3
+ faces/28.webp loaded successfully
+ faces/28.webp has skin tone: #e59c7a
+ faces/29.webp loaded successfully
+ faces/29.webp has skin tone: #ffe1af
+ faces/30.jpg loaded successfully
+ faces/30.jpg has skin tone: #ffdbb8
+ faces/31.webp loaded successfully
+ faces/31.webp has skin tone: #ffc9af
+ faces/32.jpg loaded successfully
+ faces/32.jpg has skin tone: #c49f87
+ faces/33.webp loaded successfully
+ faces/33.webp has skin tone: #ffd0b1
+ faces/34.webp loaded successfully
+ faces/34.webp has skin tone: #c89a80
+ faces/35.webp loaded successfully
+ faces/35.webp has skin tone: #fec59d
+ faces/36.jpg loaded successfully
+ faces/36.jpg has skin tone: #9a8375
+ faces/37.webp loaded successfully
+ faces/37.webp has skin tone: #ca7b4f
+ faces/38.jpg loaded successfully
+ faces/38.jpg has skin tone: #f7c0a4
+ faces/39.jpg loaded successfully
+ faces/39.jpg has skin tone: #b19483
+ faces/40.jpg loaded successfully
+ faces/40.jpg has skin tone: #ae9281
+ faces/41.jpg loaded successfully
+ faces/41.jpg has skin tone: #a58a79
+ faces/42.jpg loaded successfully
+ faces/42.jpg has skin tone: #eeb494
+ faces/43.jpg loaded successfully
+ faces/43.jpg has skin tone: #f5bda5
+ faces/44.jpg loaded successfully
+ faces/44.jpg has skin tone: #daa58c
+ faces/45.jpg loaded successfully
+ faces/45.jpg has skin tone: #daa481
+ faces/46.webp loaded successfully
+ faces/46.webp has skin tone: #ffc097
+ faces/47.webp loaded successfully
+ faces/47.webp has skin tone: #ffd9bd
+ faces/48.webp loaded successfully
+ faces/48.webp has skin tone: #fec09a
+ faces/49.webp loaded successfully
+ faces/49.webp has skin tone: #f0c0ab
+ faces/50.webp loaded successfully
+ faces/50.webp has skin tone: #dcae9a
+ faces/51.jpg loaded successfully
+ faces/51.jpg has skin tone: #a98275
+ faces/52.jpg loaded successfully
+ faces/52.jpg has skin tone: #d9a77c
+ faces/53.jpg loaded successfully
+ faces/53.jpg has skin tone: #d3a082
+ faces/54.jpg loaded successfully
+ faces/54.jpg has skin tone: #ffeec8
+ faces/55.jpg loaded successfully
+ faces/55.jpg has skin tone: #f9c69d
+ faces/56.jpg loaded successfully
+ faces/56.jpg has skin tone: #fdcbad
+ faces/57.jpg loaded successfully
+ faces/57.jpg has skin tone: #fccdbc
+ faces/58.jpg loaded successfully
+ faces/58.jpg has skin tone: #f6bfaa
+ faces/59.jpg loaded successfully
+ faces/59.jpg has skin tone: #d6a788
+ faces/60.jpg loaded successfully
+ faces/60.jpg has skin tone: #ffc6b7
+ faces/61.jpg loaded successfully
+ faces/61.jpg has skin tone: #ffd2b5
+ faces/62.jpg loaded successfully
+ faces/62.jpg has skin tone: #ecbc95
+ faces/63.jpg loaded successfully
+ faces/63.jpg has skin tone: #daa37f
+ faces/64.jpg loaded successfully
+ faces/64.jpg has skin tone: #ffc2a9
+ faces/65.jpg loaded successfully
+ faces/65.jpg has skin tone: #fbc598
+ faces/66.jpg loaded successfully
+ faces/66.jpg has skin tone: #ffcdaf
+ faces/67.jpg loaded successfully
+ faces/67.jpg has skin tone: #ffc498
+ faces/68.jpg loaded successfully
+ faces/68.jpg has skin tone: #b2765d
+ faces/69.jpg loaded successfully
+ faces/69.jpg has skin tone: #d4a483
+ faces/70.jpg loaded successfully
+ faces/70.jpg has skin tone: #e7ae87
+ faces/71.jpg loaded successfully
+ faces/71.jpg has skin tone: #dd9c7d
+ faces/72.jpg loaded successfully
+ faces/72.jpg has skin tone: #f3b8a6
+ faces/73.jpg loaded successfully
+ faces/73.jpg has skin tone: #bb9182
+ faces/74.jpg loaded successfully
+ faces/74.jpg has skin tone: #ffd4b6
+ faces/75.jpg loaded successfully
+ faces/75.jpg has skin tone: #cd9984
+ faces/76.jpg loaded successfully
+ faces/76.jpg has skin tone: #f0b898
+ faces/77.jpg loaded successfully
+ faces/77.jpg has skin tone: #d3ab98
+ faces/78.jpg loaded successfully
+ faces/78.jpg has skin tone: #e8b78d
+ faces/79.jpg loaded successfully
+ faces/79.jpg has skin tone: #bd9180
+ faces/80.jpg loaded successfully
+ faces/80.jpg has skin tone: #deb19f
+ faces/81.jpg loaded successfully
+ faces/81.jpg has skin tone: #b8877c
+ faces/82.jpg loaded successfully
+ faces/82.jpg has skin tone: #eabfa8
+ faces/83.jpg loaded successfully
+ faces/83.jpg has skin tone: #d39b84
+ faces/84.jpg loaded successfully
+ faces/84.jpg has skin tone: #e7af80
+ faces/85.jpg loaded successfully
+ faces/85.jpg has skin tone: #d8ad98
+ faces/86.jpg loaded successfully
+ faces/86.jpg has skin tone: #ffc7ab
+ faces/87.webp loaded successfully
+ faces/87.webp has skin tone: #b88377
+ faces/88.jpg loaded successfully
+ faces/88.jpg has skin tone: #b88c77
+ faces/89.jpg loaded successfully
+ faces/89.jpg has skin tone: #bc8e7a
+ faces/90.jpg loaded successfully
+ faces/90.jpg has skin tone: #b88c79
+ faces/91.jpg loaded successfully
+ faces/91.jpg has skin tone: #b48c7d
+ faces/92.jpg loaded successfully
+ faces/92.jpg has skin tone: #b78d7e
+ faces/93.jpg loaded successfully
+ faces/93.jpg has skin tone: #d7afa2
+ faces/94.jpg loaded successfully
+ faces/94.jpg has skin tone: #d5aea2
+ faces/95.jpg loaded successfully
+ faces/95.jpg has skin tone: #cba397
+ faces/96.jpg loaded successfully
+ faces/96.jpg has skin tone: #be9283
+ faces/97.jpg loaded successfully
+ faces/97.jpg has skin tone: #a98277
+ faces/98.jpg loaded successfully
+ faces/98.jpg has skin tone: #b48b81
+ faces/99.jpg loaded successfully
+ faces/99.jpg has skin tone: #ad816d
+ faces/100.jpg loaded successfully
+ faces/100.jpg has skin tone: #9c7361
+ faces/101.jpg loaded successfully
+ faces/101.jpg has skin tone: #b48e7b
+ faces/102.jpg loaded successfully
+ faces/102.jpg has skin tone: #b58d77
+ faces/103.jpg loaded successfully
+ faces/103.jpg has skin tone: #ad8974
+ faces/104.jpg loaded successfully
+ faces/104.jpg has skin tone: #cb9d84
+ faces/105.jpg loaded successfully
+ faces/105.jpg has skin tone: #be9277
+ faces/106.jpg loaded successfully
+ faces/106.jpg has skin tone: #c49a7d
+ faces/107.jpg loaded successfully
+ faces/107.jpg has skin tone: #aa8a78
+ faces/108.jpg loaded successfully
+ faces/108.jpg has skin tone: #aa8976
+ faces/109.jpg loaded successfully
+ faces/109.jpg has skin tone: #ae8e7b
+ faces/110.jpg loaded successfully
+ faces/110.jpg has skin tone: #c7a28c
+ faces/111.jpg loaded successfully
+ faces/111.jpg has skin tone: #d3ab92
+ faces/112.jpg loaded successfully
+ faces/112.jpg has skin tone: #bd9984
+ faces/113.jpg loaded successfully
+ faces/113.jpg has skin tone: #caa78f
+ faces/114.jpg loaded successfully
+ faces/114.jpg has skin tone: #b3917c
+ faces/115.jpg loaded successfully
+ faces/115.jpg has skin tone: #ba9780
+ faces/116.jpg loaded successfully
+ faces/116.jpg has skin tone: #d5a999
+ faces/117.jpg loaded successfully
+ faces/117.jpg has skin tone: #e2b8aa
+ faces/118.jpg loaded successfully
+ faces/118.jpg has skin tone: #d9ad9d
+ faces/119.jpg loaded successfully
+ faces/119.jpg has skin tone: #b08e78
+ faces/120.jpg loaded successfully
+ faces/120.jpg has skin tone: #b9957f
+ faces/121.jpg loaded successfully
+ faces/121.jpg has skin tone: #bb9981
+ faces/122.jpg loaded successfully
+ faces/122.jpg has skin tone: #b69581
+ faces/123.jpg loaded successfully
+ faces/123.jpg has skin tone: #c7a390
+ faces/124.jpg loaded successfully
+ faces/124.jpg has skin tone: #b79782
+ faces/125.jpg loaded successfully
+ faces/125.jpg has skin tone: #ba9581
+ faces/126.jpg loaded successfully
+ faces/126.jpg has skin tone: #b5917c
+ faces/127.jpg loaded successfully
+ faces/127.jpg has skin tone: #bc9883
+ faces/128.jpg loaded successfully
+ faces/128.jpg has skin tone: #bf9c85
+ faces/129.jpg loaded successfully
+ faces/129.jpg has skin tone: #af8e76
+ faces/130.jpg loaded successfully
+ faces/130.jpg has skin tone: #b7967f
+ faces/131.jpg loaded successfully
+ faces/131.jpg has skin tone: #ad8a79
+ faces/132.jpg loaded successfully
+ faces/132.jpg has skin tone: #ac8a78
+ faces/133.jpg loaded successfully
+ faces/133.jpg has skin tone: #b4907f
+ faces/134.jpg loaded successfully
+ faces/134.jpg has skin tone: #d9b09f
+ faces/135.jpg loaded successfully
+ faces/135.jpg has skin tone: #d8ae9a
+ faces/136.jpg loaded successfully
+ faces/136.jpg has skin tone: #d2a794
+ faces/137.jpg loaded successfully
+ faces/137.jpg has skin tone: #f1cab4
+ faces/138.jpg loaded successfully
+ faces/138.jpg has skin tone: #f2cbb5
+ faces/139.jpg loaded successfully
+ faces/139.jpg has skin tone: #e8c0a9
+ faces/140.jpg loaded successfully
+ faces/140.jpg has skin tone: #bd9781
+ faces/141.jpg loaded successfully
+ faces/141.jpg has skin tone: #bf9a85
+ faces/142.jpg loaded successfully
+ faces/142.jpg has skin tone: #d5ac97
+ faces/143.jpg loaded successfully
+ faces/143.jpg has skin tone: #d1a895
+ faces/144.jpg loaded successfully
+ faces/144.jpg has skin tone: #bd9784
+ faces/145.jpg loaded successfully
+ faces/145.jpg has skin tone: #b18d76
+ faces/146.jpg loaded successfully
+ faces/146.jpg has skin tone: #ae8f79
+ faces/147.jpg loaded successfully
+ faces/147.jpg has skin tone: #b4927b
+ faces/148.jpg loaded successfully
+ faces/148.jpg has skin tone: #b3927c
+ faces/149.jpg loaded successfully
+ faces/149.jpg has skin tone: #d4ab90
+ faces/150.jpg loaded successfully
+ faces/150.jpg has skin tone: #ab8a71
+ faces/151.jpg loaded successfully
+ faces/151.jpg has skin tone: #d5ad91
+ faces/152.jpg loaded successfully
+ faces/152.jpg has skin tone: #a1836f
+ faces/153.jpg loaded successfully
+ faces/153.jpg has skin tone: #a68672
+ faces/154.jpg loaded successfully
+ faces/154.jpg has skin tone: #977b67
+ faces/155.jpg loaded successfully
+ faces/155.jpg has skin tone: #dfbaa7
+ faces/156.jpg loaded successfully
+ faces/156.jpg has skin tone: #e7c1ae
+ faces/157.jpg loaded successfully
+ faces/157.jpg has skin tone: #eec6b4
+ faces/158.jpg loaded successfully
+ faces/158.jpg has skin tone: #c6a78e
+ faces/159.jpg loaded successfully
+ faces/159.jpg has skin tone: #d0af97
+ faces/160.jpg loaded successfully
+ faces/160.jpg has skin tone: #ba9c84
+ faces/161.jpg loaded successfully
+ faces/161.jpg has skin tone: #c9a793
+ faces/162.jpg loaded successfully
+ faces/162.jpg has skin tone: #b79886
+ faces/163.jpg loaded successfully
+ faces/163.jpg has skin tone: #c6a48f
+ faces/164.jpg loaded successfully
+ faces/164.jpg has skin tone: #b39681
+ faces/165.jpg loaded successfully
+ faces/165.jpg has skin tone: #bc9b85
+ faces/166.jpg loaded successfully
+ faces/166.jpg has skin tone: #b0907e
+ faces/167.jpg loaded successfully
+ faces/167.jpg has skin tone: #d4ae98
+ faces/168.jpg loaded successfully
+ faces/168.jpg has skin tone: #e1b9a1
+ faces/169.jpg loaded successfully
+ faces/169.jpg has skin tone: #ad8172
+ faces/170.jpg loaded successfully
+ faces/170.jpg has skin tone: #b78977
+ faces/171.jpg loaded successfully
+ faces/171.jpg has skin tone: #be8d7e
+ faces/172.jpg loaded successfully
+ faces/172.jpg has skin tone: #bd8e7d
+ faces/173.jpg loaded successfully
+ faces/173.jpg has skin tone: #c18c7a
+ faces/174.jpg loaded successfully
+ faces/174.jpg has skin tone: #a67c6e
+ faces/175.jpg loaded successfully
+ faces/175.jpg has skin tone: #b78977
+ faces/176.jpg loaded successfully
+ faces/176.jpg has skin tone: #936c5e
+ faces/177.jpg loaded successfully
+ faces/177.jpg has skin tone: #bb9688
+ faces/178.jpg loaded successfully
+ faces/178.jpg has skin tone: #d0a796
+ faces/179.jpg loaded successfully
+ faces/179.jpg has skin tone: #c39071
+ faces/180.jpg loaded successfully
+ faces/180.jpg has skin tone: #cc9779
+ faces/181.jpg loaded successfully
+ faces/181.jpg has skin tone: #cc9b8d
+ faces/182.jpg loaded successfully
+ faces/182.jpg has skin tone: #d5a493
+ faces/183.jpg loaded successfully
+ faces/183.jpg has skin tone: #d0a08e
+ faces/184.jpg loaded successfully
+ faces/184.jpg has skin tone: #bc958f
+ faces/185.jpg loaded successfully
+ faces/185.jpg has skin tone: #b98d7f
+ faces/186.jpg loaded successfully
+ faces/186.jpg has skin tone: #be9182
+ faces/187.jpg loaded successfully
+ faces/187.jpg has skin tone: #d69e85
+ faces/188.jpg loaded successfully
+ faces/188.jpg has skin tone: #bd866d
+ faces/189.jpg loaded successfully
+ faces/189.jpg has skin tone: #be907e
+ faces/190.jpg loaded successfully
+ faces/190.jpg has skin tone: #b88c7c
+ faces/191.jpg loaded successfully
+ faces/191.jpg has skin tone: #b48779
+ faces/192.jpg loaded successfully
+ faces/192.jpg has skin tone: #e5b7a6
+ faces/193.jpg loaded successfully
+ faces/193.jpg has skin tone: #c19689
+ faces/194.jpg loaded successfully
+ faces/194.jpg has skin tone: #ac857c
+ faces/195.jpg loaded successfully
+ faces/195.jpg has skin tone: #b78a81
+ faces/196.jpg loaded successfully
+ faces/196.jpg has skin tone: #c2998f
+ faces/197.jpg loaded successfully
+ faces/197.jpg has skin tone: #cc9982
+ faces/198.jpg loaded successfully
+ faces/198.jpg has skin tone: #d2aa9e
+ faces/199.jpg loaded successfully
+ faces/199.jpg has skin tone: #c29d91
+ faces/200.jpg loaded successfully
+ faces/200.jpg has skin tone: #dbb0a2
+ faces/201.jpg loaded successfully
+ faces/201.jpg has skin tone: #c59b8c
+ dataframe loaded succesfully
+ skin rgbs separated
+ labels created
+ ['#b78f7d', '#d6ac99', '#f6be97', '#ac8775', '#c19983', '#fed9ba', '#dba382', '#a47860', '#c7a18e', '#f3c1ac']
+ skin rgbs separated
+ labels created
+ ['#b78f7d', '#d6ac99', '#f6be97', '#ac8775', '#c19983', '#fed9ba', '#dba382', '#a47860', '#c7a18e', '#f3c1ac']
+ Hyperparameters: Criterion=gini, Max Depth=5, Min Samples Split=2
+ Accuracy: 0.8537
+ Hyperparameters: Criterion=gini, Max Depth=5, Min Samples Split=5
+ Accuracy: 0.8537
+ Hyperparameters: Criterion=gini, Max Depth=5, Min Samples Split=10
+ Accuracy: 0.8293
+ Hyperparameters: Criterion=gini, Max Depth=10, Min Samples Split=2
+ Accuracy: 0.8537
+ Hyperparameters: Criterion=gini, Max Depth=10, Min Samples Split=5
+ Accuracy: 0.8537
+ Hyperparameters: Criterion=gini, Max Depth=10, Min Samples Split=10
+ Accuracy: 0.8293
+ Hyperparameters: Criterion=gini, Max Depth=None, Min Samples Split=2
+ Accuracy: 0.8537
+ Hyperparameters: Criterion=gini, Max Depth=None, Min Samples Split=5
+ Accuracy: 0.8537
+ Hyperparameters: Criterion=gini, Max Depth=None, Min Samples Split=10
+ Accuracy: 0.8293
+ Hyperparameters: Criterion=entropy, Max Depth=5, Min Samples Split=2
+ Accuracy: 0.8049
+ Hyperparameters: Criterion=entropy, Max Depth=5, Min Samples Split=5
+ Accuracy: 0.8049
+ Hyperparameters: Criterion=entropy, Max Depth=5, Min Samples Split=10
+ Accuracy: 0.7805
+ Hyperparameters: Criterion=entropy, Max Depth=10, Min Samples Split=2
+ Accuracy: 0.8049
+ Hyperparameters: Criterion=entropy, Max Depth=10, Min Samples Split=5
+ Accuracy: 0.8049
+ Hyperparameters: Criterion=entropy, Max Depth=10, Min Samples Split=10
+ Accuracy: 0.7805
+ Hyperparameters: Criterion=entropy, Max Depth=None, Min Samples Split=2
+ Accuracy: 0.8049
+ Hyperparameters: Criterion=entropy, Max Depth=None, Min Samples Split=5
+ Accuracy: 0.8049
+ Hyperparameters: Criterion=entropy, Max Depth=None, Min Samples Split=10
+ Accuracy: 0.7805
+ Hyperparameters: n_estimators=50, Max Depth=10
+ Accuracy: 0.8293
+ Hyperparameters: n_estimators=50, Max Depth=20
+ Accuracy: 0.8293
+ Hyperparameters: n_estimators=50, Max Depth=30
+ Accuracy: 0.8293
+ Hyperparameters: n_estimators=50, Max Depth=None
+ Accuracy: 0.8293
+ Hyperparameters: n_estimators=100, Max Depth=10
+ Accuracy: 0.8537
+ Hyperparameters: n_estimators=100, Max Depth=20
+ Accuracy: 0.8537
+ Hyperparameters: n_estimators=100, Max Depth=30
+ Accuracy: 0.8537
+ Hyperparameters: n_estimators=100, Max Depth=None
+ Accuracy: 0.8537
+ Hyperparameters: n_estimators=200, Max Depth=10
+ Accuracy: 0.8780
+ Hyperparameters: n_estimators=200, Max Depth=20
+ Accuracy: 0.8780
+ Hyperparameters: n_estimators=200, Max Depth=30
+ Accuracy: 0.8780
+ Hyperparameters: n_estimators=200, Max Depth=None
+ Accuracy: 0.8780
+ Hyperparameters: n_estimators=500, Max Depth=10
+ Accuracy: 0.8780
+ Hyperparameters: n_estimators=500, Max Depth=20
+ Accuracy: 0.8780
+ Hyperparameters: n_estimators=500, Max Depth=30
+ Accuracy: 0.8780
+ Hyperparameters: n_estimators=500, Max Depth=None
+ Accuracy: 0.8780
+ Hyperparameters: n_estimators=50, Max Depth=3, Learning Rate=0.01
+ Accuracy: 0.0000
+ Hyperparameters: n_estimators=50, Max Depth=3, Learning Rate=0.1
+ Accuracy: 0.8049
+ Hyperparameters: n_estimators=50, Max Depth=3, Learning Rate=0.2
+ Accuracy: 0.8049
+ Hyperparameters: n_estimators=50, Max Depth=5, Learning Rate=0.01
+ Accuracy: 0.0000
+ Hyperparameters: n_estimators=50, Max Depth=5, Learning Rate=0.1
+ Accuracy: 0.8049
+ Hyperparameters: n_estimators=50, Max Depth=5, Learning Rate=0.2
+ Accuracy: 0.8049
+ Hyperparameters: n_estimators=50, Max Depth=7, Learning Rate=0.01
+ Accuracy: 0.0000
+ Hyperparameters: n_estimators=50, Max Depth=7, Learning Rate=0.1
+ Accuracy: 0.8049
+ Hyperparameters: n_estimators=50, Max Depth=7, Learning Rate=0.2
+ Accuracy: 0.8049
+ Hyperparameters: n_estimators=50, Max Depth=10, Learning Rate=0.01
+ Accuracy: 0.0000
+ Hyperparameters: n_estimators=50, Max Depth=10, Learning Rate=0.1
+ Accuracy: 0.8049
+ Hyperparameters: n_estimators=50, Max Depth=10, Learning Rate=0.2
+ Accuracy: 0.8049
+ Hyperparameters: n_estimators=100, Max Depth=3, Learning Rate=0.01
+ Accuracy: 0.6341
+ Hyperparameters: n_estimators=100, Max Depth=3, Learning Rate=0.1
+ Accuracy: 0.8049
+ Hyperparameters: n_estimators=100, Max Depth=3, Learning Rate=0.2
+ Accuracy: 0.8293
+ Hyperparameters: n_estimators=100, Max Depth=5, Learning Rate=0.01
+ Accuracy: 0.6341
+ Hyperparameters: n_estimators=100, Max Depth=5, Learning Rate=0.1
+ Accuracy: 0.8049
+ Hyperparameters: n_estimators=100, Max Depth=5, Learning Rate=0.2
+ Accuracy: 0.8293
+ Hyperparameters: n_estimators=100, Max Depth=7, Learning Rate=0.01
+ Accuracy: 0.6341
+ Hyperparameters: n_estimators=100, Max Depth=7, Learning Rate=0.1
+ Accuracy: 0.8049
+ Hyperparameters: n_estimators=100, Max Depth=7, Learning Rate=0.2
+ Accuracy: 0.8293
+ Hyperparameters: n_estimators=100, Max Depth=10, Learning Rate=0.01
+ Accuracy: 0.6341
+ Hyperparameters: n_estimators=100, Max Depth=10, Learning Rate=0.1
+ Accuracy: 0.8049
+ Hyperparameters: n_estimators=100, Max Depth=10, Learning Rate=0.2
+ Accuracy: 0.8293
+ Hyperparameters: n_estimators=200, Max Depth=3, Learning Rate=0.01
+ Accuracy: 0.7561
+ Hyperparameters: n_estimators=200, Max Depth=3, Learning Rate=0.1
+ Accuracy: 0.8293
+ Hyperparameters: n_estimators=200, Max Depth=3, Learning Rate=0.2
+ Accuracy: 0.8293
+ Hyperparameters: n_estimators=200, Max Depth=5, Learning Rate=0.01
+ Accuracy: 0.7561
+ Hyperparameters: n_estimators=200, Max Depth=5, Learning Rate=0.1
+ Accuracy: 0.8293
+ Hyperparameters: n_estimators=200, Max Depth=5, Learning Rate=0.2
+ Accuracy: 0.8293
+ Hyperparameters: n_estimators=200, Max Depth=7, Learning Rate=0.01
+ Accuracy: 0.7561
+ Hyperparameters: n_estimators=200, Max Depth=7, Learning Rate=0.1
+ Accuracy: 0.8293
+ Hyperparameters: n_estimators=200, Max Depth=7, Learning Rate=0.2
+ Accuracy: 0.8293
+ Hyperparameters: n_estimators=200, Max Depth=10, Learning Rate=0.01
+ Accuracy: 0.7561
+ Hyperparameters: n_estimators=200, Max Depth=10, Learning Rate=0.1
+ Accuracy: 0.8293
+ Hyperparameters: n_estimators=200, Max Depth=10, Learning Rate=0.2
+ Accuracy: 0.8293
+ Hyperparameters: n_estimators=500, Max Depth=3, Learning Rate=0.01
+ Accuracy: 0.7805
+ Hyperparameters: n_estimators=500, Max Depth=3, Learning Rate=0.1
+ Accuracy: 0.8293
+ Hyperparameters: n_estimators=500, Max Depth=3, Learning Rate=0.2
+ Accuracy: 0.8293
+ Hyperparameters: n_estimators=500, Max Depth=5, Learning Rate=0.01
+ Accuracy: 0.7805
+ Hyperparameters: n_estimators=500, Max Depth=5, Learning Rate=0.1
+ Accuracy: 0.8293
+ Hyperparameters: n_estimators=500, Max Depth=5, Learning Rate=0.2
+ Accuracy: 0.8293
+ Hyperparameters: n_estimators=500, Max Depth=7, Learning Rate=0.01
+ Accuracy: 0.7805
+ Hyperparameters: n_estimators=500, Max Depth=7, Learning Rate=0.1
+ Accuracy: 0.8293
+ Hyperparameters: n_estimators=500, Max Depth=7, Learning Rate=0.2
+ Accuracy: 0.8293
+ Hyperparameters: n_estimators=500, Max Depth=10, Learning Rate=0.01
+ Accuracy: 0.7805
+ Hyperparameters: n_estimators=500, Max Depth=10, Learning Rate=0.1
+ Accuracy: 0.8293
+ Hyperparameters: n_estimators=500, Max Depth=10, Learning Rate=0.2
+ Accuracy: 0.8293
+ faces/194.jpg loaded successfully
+ faces/194.jpg has skin tone: #b58a7e
+ dataframe loaded succesfully
